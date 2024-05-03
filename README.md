@@ -1,4 +1,4 @@
-API RICK AND MORTY
+#PROJETO CONSUMO DE API - (RICK AND MORTY)
 Lucas Simões da Costa - RA: 1973724
 Análise e Desenvolvimento de Sistemas - UNIMAR
 
