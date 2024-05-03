@@ -13,4 +13,4 @@ Tecnologias utilizadas:
 - CSS
 - JavaScript
 
-*Para iniciar a aplicação em sua máquina, faça um clone do projeto, instale as dependências e para executar utilize o seguinte comando: npm run dev
+* Para iniciar a aplicação em sua máquina, faça um clone do projeto, instale as dependências e para executar utilize o seguinte comando: npm run dev
